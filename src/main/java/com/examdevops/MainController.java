@@ -8,7 +8,7 @@ public class MainController {
 	
 	@GetMapping(value={"/",""})
 	public String home() {
-		return "<h1>Hola Beanstalk</h1>";
+		return "<h1>Hola Beanstalk!!!</h1>";
 	}
 
 }
